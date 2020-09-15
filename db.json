@@ -1,0 +1,46 @@
+{
+"adds": [
+	{
+    "addurl": "https://cdn-images-1.medium.com/max/2000/1*GqdzzfB_BHorv7V2NV7Jgg.jpeg"
+  },
+  {
+    "addurl": "https://cdn-images-1.medium.com/max/2000/1*wnIEgP1gNMrK5gZU7QS0-A.jpeg"
+  },
+  {
+    "addurl": "https://cdn-images-1.medium.com/max/2000/1*GqdzzfB_BHorv7V2NV7Jgg.jpeg"
+  },
+  {
+    "addurl": "https://cdn-images-1.medium.com/max/2000/1*wnIEgP1gNMrK5gZU7QS0-A.jpeg"
+  }
+  ],
+  "posts": [
+ 
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "title": "json-server",
+      "author": "justin",
+      "id": 2
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 4,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 7,
+      "body": "some comment",
+      "postId": 1
+    }
+  ]
+}
